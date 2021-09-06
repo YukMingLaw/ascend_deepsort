@@ -103,6 +103,6 @@ fps:21.3538
 
 ### Reference:
 
-[Yolov5_DeepSort_Pytorch]: https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
-[DeepSORT]: https://github.com/shaoshengsong/DeepSORT
+DeepSORT: https://github.com/shaoshengsong/DeepSORT 
 
+Yolov5_DeepSort_Pytorch: https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
