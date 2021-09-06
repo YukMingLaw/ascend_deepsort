@@ -30,7 +30,7 @@ yolov5m model can be download [here](https://infer-model.obs.cn-north-4.myhuawei
 
 `python3 modify_yolov5.py yolov5m.onnx yolov5m`
 
-##### 1.2 transfer yolov5.onnx to om with ATC
+##### 1.2 trans yolov5.onnx to om with ATC
 
 ```shell
 source /usr/local/Ascend/ascend-toolkit/set_env.sh
