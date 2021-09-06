@@ -48,11 +48,11 @@ atc --model=yolov5m.onnx --framework=5 --output=yolov5m --soc_version=Ascend310 
 
 which nodes you should select:
 
-![node1](.\data\node1.png)
+![node1](./data/node1.png)
 
 
 
-![node2](.\data\node2.png)
+![node2](./data/node2.png)
 
 
 
