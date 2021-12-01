@@ -26,7 +26,10 @@ supported Ascend Hardware：Atlas300-3000/3010、Atlas800-3000/3010
 
 ##### 1.1 modify the focus modular to an Conv operator by scripts/modify_yolov5.py
 
-yolov5m model can be download [here](https://infer-model.obs.cn-north-4.myhuaweicloud.com:443/deepsort/yolov5m.onnx?AccessKeyId=9ZDA1G0YE9DZH8KPKRYY&Expires=1662020514&Signature=S6qZw646TrHtDuiRM0mhi92WMwc%3D)
+yolov5m model can be download here:
+
+链接：https://pan.baidu.com/s/1eZ9GBjEFgSIx-ayjzYzCBQ 
+提取码：1234
 
 `python3 modify_yolov5.py yolov5m.onnx yolov5m`
 
@@ -60,7 +63,10 @@ which nodes you should select:
 
 ##### 1.3 trans feature extractor model to om with ATC
 
-feature extractor model can be download [here](https://infer-model.obs.cn-north-4.myhuaweicloud.com:443/deepsort/feature.onnx?AccessKeyId=9ZDA1G0YE9DZH8KPKRYY&Expires=1662020400&Signature=V4PuBePuJxqPS51xdGFCgFvFj6o%3D)
+feature extractor model can be download here
+
+链接：https://pan.baidu.com/s/1nEfb3Yd0n32fHj9C9QdqQw 
+提取码：1234
 
 ```shell
 source /usr/local/Ascend/ascend-toolkit/set_env.sh
